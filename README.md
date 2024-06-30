@@ -1,2 +1,10 @@
 # MongoDb
-Here's a description for your MongoDB repository on GitHub under 350 characters:  **Learn &amp; Do MongoDB! **  This repo has code examples for:  CRUD (Create, Read, Update, Delete) Connecting to MongoDB Using collections &amp; documents Querying &amp; filtering data Clone &amp; explore to master MongoDB!
+This repository provides code examples for learning and practicing MongoDB functionalities.
+
+Here's what you'll find:
+
+CRUD operations (Create, Read, Update, Delete)
+Connecting to a MongoDB database
+Working with collections and documents
+Performing queries and filtering data
+Feel free to clone this repository and experiment with the code to solidify your understanding of MongoDB. You can also use it as a base for your own MongoDB projects.
